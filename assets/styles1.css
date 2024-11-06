@@ -140,6 +140,8 @@ main {
 
 .hero-card {
     background: var(--secondary);
+    width: 500px;
+    height: 400px;
     padding: 20px;
     border-radius: 15px;
     display: flex;
