@@ -66,13 +66,13 @@
         max-width: 600px;
     }
 
-    .integrantes-list{
+    .proyectos-list{
        flex-direction: column;
        justify-content: center;
        align-items: center;
     }
 
-    .integrante{
+    .proyecto{
         width: 80%;
     }
 
