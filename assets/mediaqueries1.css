@@ -66,6 +66,14 @@
         max-width: 600px;
     }
 
+    .hero-card{
+        width: 100%;
+    }
+
+    .hero-card iframe{
+        width: 100%;
+    }
+
 
     .proyectos-list{
        flex-direction: column;
