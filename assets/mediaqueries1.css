@@ -127,4 +127,15 @@
         width: 100%;
         flex-direction: column;
     }
+
+    .recolec{
+        flex-direction: column;
+    }
+
+    .instrumentos-list{
+        flex-direction: column;
+    }
+    .instrumento{
+        width: 100%;
+    }
 }
