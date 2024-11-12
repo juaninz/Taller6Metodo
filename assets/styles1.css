@@ -472,3 +472,39 @@ main {
     color: var(--secondary);
 }
 
+.MuestraEncuesta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    padding: 2rem;
+}
+
+.MuestraEncuesta h2{
+    justify-self: center;
+}
+
+.encuesta-list{
+    background-color: var(--secondary);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+.encuesta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.encuesta a{
+    color: var(--text-white);
+    background-color: var(--azul);
+    width: 120px;
+    padding: 8px 8px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+}
