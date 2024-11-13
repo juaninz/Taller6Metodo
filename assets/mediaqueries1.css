@@ -46,6 +46,7 @@
     #hero{
         flex-direction: column;
         gap: 20px;
+        width: 100%;
     }
     .hero-info {
         width: 100%;
@@ -138,4 +139,11 @@
     .instrumento{
         width: 100%;
     }
+
+    
+    .mono-img{
+        width: 80%;
+        display: flex;
+    }
+
 }
